@@ -14,9 +14,13 @@ point
 
 **Links:**
 [ExSwift][]
+
 [Making a color palette with HSB][] 
-[UIImage pixel play extension in Swift][] 
+
+[UIImage pixel play extension in Swift][]
+
 [Send Email In-App – Using MFMailComposeViewController with Swift][] 
+
 [Photo][]
 
 [snapshot]: http://audreyli.me/wp-content/uploads/2015/05/snapshot.gif
