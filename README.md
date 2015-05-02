@@ -13,9 +13,11 @@ point
 [![screenshot2][]][screenshot2] 
 
 **Links:**
-[ExSwift][] [Making a color palette with HSB][] [UIImage pixel play
-extension in Swift][] [Send Email In-App – Using
-MFMailComposeViewController with Swift][] [Photo Credit][]
+[ExSwift][]
+[Making a color palette with HSB][] 
+[UIImage pixel play extension in Swift][] 
+[Send Email In-App – Using MFMailComposeViewController with Swift][] 
+[Photo][]
 
 [snapshot]: http://audreyli.me/wp-content/uploads/2015/05/snapshot.gif
 [screenshot2]: http://audreyli.me/wp-content/uploads/2015/05/screenshot2.png
@@ -23,4 +25,4 @@ MFMailComposeViewController with Swift][] [Photo Credit][]
 [Making a color palette with HSB]: http://makeapppie.com/2014/10/08/swift-swift-using-uicolor-in-swift-part-2-making-a-color-palette-with-hsb/
 [UIImage pixel play extension in Swift]: https://medium.com/hacking-ios/uiimage-pixel-play-extension-in-swift-7c6fe90396b6
 [Send Email In-App – Using MFMailComposeViewController with Swift]: http://www.andrewcbancroft.com/2014/08/25/send-email-in-app-using-mfmailcomposeviewcontroller-with-swift/
-[Photo Credit]: http://www.designsnext.com/12-colorful-wallpapers-free/
+[Photo]: http://www.designsnext.com/12-colorful-wallpapers-free/
