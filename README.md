@@ -8,7 +8,11 @@ touch point
 point
 4.  A custom ColorRollView to display HSB colors
 
-[![snapshot][]][snapshot][![screenshot2][]][screenshot2] **Links:**
+[![snapshot][]][snapshot]
+
+[![screenshot2][]][screenshot2] 
+
+**Links:**
 [ExSwift][] [Making a color palette with HSB][] [UIImage pixel play
 extension in Swift][] [Send Email In-App – Using
 MFMailComposeViewController with Swift][] [Photo Credit][]
