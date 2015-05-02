@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		7632C1AA1AF1BB15006EF03C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7632C1A91AF1BB15006EF03C /* AppDelegate.swift */; };
-		7632C1AC1AF1BB15006EF03C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7632C1AB1AF1BB15006EF03C /* ViewController.swift */; };
 		7632C1AF1AF1BB15006EF03C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7632C1AD1AF1BB15006EF03C /* Main.storyboard */; };
 		7632C1B11AF1BB15006EF03C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7632C1B01AF1BB15006EF03C /* Images.xcassets */; };
 		7632C1B41AF1BB15006EF03C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7632C1B21AF1BB15006EF03C /* LaunchScreen.xib */; };
@@ -22,7 +21,7 @@
 		7632C1DB1AF1BB84006EF03C /* FrameworkConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7632C1D71AF1BB84006EF03C /* FrameworkConfig.swift */; };
 		7632C1E21AF1BE55006EF03C /* GeneralExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7632C1E01AF1BE55006EF03C /* GeneralExtension.swift */; };
 		7632C1E31AF1BE55006EF03C /* IntExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7632C1E11AF1BE55006EF03C /* IntExtension.swift */; };
-		7632C1E51AF1C9F4006EF03C /* ColorPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7632C1E41AF1C9F4006EF03C /* ColorPickerView.swift */; };
+		7632C1E51AF1C9F4006EF03C /* ColorRollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7632C1E41AF1C9F4006EF03C /* ColorRollView.swift */; };
 		7632C1E71AF2ABB2006EF03C /* ColorPickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7632C1E61AF2ABB2006EF03C /* ColorPickerViewController.swift */; };
 		7632C1EB1AF2BFA7006EF03C /* ColorStripeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7632C1EA1AF2BFA7006EF03C /* ColorStripeView.swift */; };
 		7664FDEF1AF2C66B00A7B26D /* ImageUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7664FDEE1AF2C66B00A7B26D /* ImageUtils.swift */; };
@@ -51,7 +50,6 @@
 		7632C1A41AF1BB15006EF03C /* 020-Color-Play.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "020-Color-Play.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7632C1A81AF1BB15006EF03C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7632C1A91AF1BB15006EF03C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		7632C1AB1AF1BB15006EF03C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		7632C1AE1AF1BB15006EF03C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7632C1B01AF1BB15006EF03C /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		7632C1B31AF1BB15006EF03C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
@@ -67,8 +65,8 @@
 		7632C1D71AF1BB84006EF03C /* FrameworkConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FrameworkConfig.swift; sourceTree = "<group>"; };
 		7632C1E01AF1BE55006EF03C /* GeneralExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GeneralExtension.swift; sourceTree = "<group>"; };
 		7632C1E11AF1BE55006EF03C /* IntExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IntExtension.swift; sourceTree = "<group>"; };
-		7632C1E41AF1C9F4006EF03C /* ColorPickerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorPickerView.swift; sourceTree = "<group>"; };
-		7632C1E61AF2ABB2006EF03C /* ColorPickerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorPickerViewController.swift; sourceTree = "<group>"; };
+		7632C1E41AF1C9F4006EF03C /* ColorRollView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = ColorRollView.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7632C1E61AF2ABB2006EF03C /* ColorPickerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = ColorPickerViewController.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7632C1EA1AF2BFA7006EF03C /* ColorStripeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorStripeView.swift; sourceTree = "<group>"; };
 		7664FDEE1AF2C66B00A7B26D /* ImageUtils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ImageUtils.swift; path = ../ImageUtils.swift; sourceTree = "<group>"; };
 		7664FDF01AF2C92400A7B26D /* StringExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringExtension.swift; sourceTree = "<group>"; };
@@ -124,12 +122,11 @@
 				76F02B421AF4651F00267FB7 /* ColorStripeSliderView.xib */,
 				7632C1AD1AF1BB15006EF03C /* Main.storyboard */,
 				76F02B3A1AF45E5100267FB7 /* ColorStripeSliderView.swift */,
-				7632C1E41AF1C9F4006EF03C /* ColorPickerView.swift */,
+				7632C1E41AF1C9F4006EF03C /* ColorRollView.swift */,
 				7632C1E61AF2ABB2006EF03C /* ColorPickerViewController.swift */,
 				76F02B441AF552AE00267FB7 /* ColorPickerWithImageViewController.swift */,
 				7632C1EA1AF2BFA7006EF03C /* ColorStripeView.swift */,
 				7664FDF21AF2CF7E00A7B26D /* PixelsRectView.swift */,
-				7632C1AB1AF1BB15006EF03C /* ViewController.swift */,
 				7664FDF41AF3EABE00A7B26D /* AppConfig.swift */,
 				7632C1C91AF1BB4E006EF03C /* ALFramework */,
 				7632C1A71AF1BB15006EF03C /* Supporting Files */,
@@ -290,7 +287,6 @@
 				76F02B3B1AF45E5100267FB7 /* ColorStripeSliderView.swift in Sources */,
 				76F02B371AF4595300267FB7 /* NSArray.swift in Sources */,
 				7664FDEF1AF2C66B00A7B26D /* ImageUtils.swift in Sources */,
-				7632C1AC1AF1BB15006EF03C /* ViewController.swift in Sources */,
 				7632C1AA1AF1BB15006EF03C /* AppDelegate.swift in Sources */,
 				7632C1CB1AF1BB5E006EF03C /* MD.swift in Sources */,
 				7664FDF11AF2C92400A7B26D /* StringExtension.swift in Sources */,
@@ -307,7 +303,7 @@
 				7664FDF31AF2CF7E00A7B26D /* PixelsRectView.swift in Sources */,
 				7632C1D11AF1BB70006EF03C /* ColorExtension.swift in Sources */,
 				76F02B351AF4573D00267FB7 /* ExSwift.swift in Sources */,
-				7632C1E51AF1C9F4006EF03C /* ColorPickerView.swift in Sources */,
+				7632C1E51AF1C9F4006EF03C /* ColorRollView.swift in Sources */,
 				7632C1EB1AF2BFA7006EF03C /* ColorStripeView.swift in Sources */,
 				7632C1D51AF1BB70006EF03C /* Utils.swift in Sources */,
 			);

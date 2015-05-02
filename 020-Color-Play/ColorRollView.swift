@@ -1,5 +1,5 @@
 //
-//  ColorPickerView.swift
+//  ColorRollView.swift
 //  020-Color-Play
 //
 //  Created by Audrey Li on 4/29/15.
@@ -9,7 +9,7 @@
 import UIKit
 
 //@IBDesignable
-public class ColorPickerView: UIView {
+public class ColorRollView: UIView {
    
     let rows:CGFloat = 12
     let columns:CGFloat = 18

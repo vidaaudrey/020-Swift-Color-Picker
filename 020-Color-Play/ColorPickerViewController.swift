@@ -1,5 +1,5 @@
 //
-//  ColorPickerViewController.swift
+//  ColorRollViewController.swift
 //  020-Color-Play
 //
 //  Created by Audrey Li on 4/30/15.
@@ -8,11 +8,11 @@
 
 import UIKit
 
-class ColorPickerViewController: UIViewController {
+class ColorRollViewController: UIViewController {
     
     @IBOutlet weak var paletteView: ColorStripeView!
     @IBOutlet weak var colorPickerRectView: PixelsRectView!
-    @IBOutlet weak var colorView: ColorPickerView!
+    @IBOutlet weak var colorView: ColorRollView!
     @IBOutlet weak var sliderView: ColorStripeSliderView!
     
     override func viewDidLoad() {

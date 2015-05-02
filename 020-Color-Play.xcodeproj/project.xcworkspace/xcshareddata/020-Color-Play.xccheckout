@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5C8DA332-E9A7-4299-B943-40A88F1344F2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>020-Color-Play</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>52DB1706A5327544FC5A7BB2B936FFABA6BB54B0</key>
+		<string>https://github.com/vidaaudrey/020-Swift-Color-Picker.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>020-Color-Play.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>52DB1706A5327544FC5A7BB2B936FFABA6BB54B0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vidaaudrey/020-Swift-Color-Picker.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>52DB1706A5327544FC5A7BB2B936FFABA6BB54B0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>52DB1706A5327544FC5A7BB2B936FFABA6BB54B0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>020-Swift-Color-Picker</string>
+		</dict>
+	</array>
+</dict>
+</plist>
