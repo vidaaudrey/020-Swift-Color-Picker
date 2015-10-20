@@ -24,8 +24,8 @@ point
 
 [Photo][]
 
-[snapshot]: http://audreyli.me/wp-content/uploads/2015/05/snapshot.gif
-[screenshot2]: http://audreyli.me/wp-content/uploads/2015/05/screenshot2.png
+[snapshot]: https://raw.githubusercontent.com/vidaaudrey/020-Swift-Color-Picker/master/_screenshot/snapshot.gif
+[screenshot2]: https://raw.githubusercontent.com/vidaaudrey/020-Swift-Color-Picker/master/_screenshot/screenshot2.png
 [ExSwift]: https://github.com/pNre/ExSwift/tree/master/ExSwift
 [Making a color palette with HSB]: http://makeapppie.com/2014/10/08/swift-swift-using-uicolor-in-swift-part-2-making-a-color-palette-with-hsb/
 [UIImage pixel play extension in Swift]: https://medium.com/hacking-ios/uiimage-pixel-play-extension-in-swift-7c6fe90396b6
